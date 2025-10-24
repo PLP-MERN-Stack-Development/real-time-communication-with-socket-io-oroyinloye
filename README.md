@@ -29,5 +29,5 @@ A full-stack real-time chat application built using the MERN stack and Socket.IO
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/socket-io-chat-app.git
+git clone https://github.com/oroyinloye/socket-io-chat-app.git
 cd socket-io-chat-app
